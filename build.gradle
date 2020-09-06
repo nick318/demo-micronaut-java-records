@@ -52,7 +52,7 @@ dependencies {
 
 test.classpath += configurations.developmentOnly
 
-mainClassName = "com.todo.Application"
+mainClassName = "com.example.Application"
 
 // use JUnit 5 platform
 test {
